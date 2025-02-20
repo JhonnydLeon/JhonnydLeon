@@ -78,7 +78,14 @@ I'm a second year software engineering undergraduate at University of Kelaniya a
 </span>
 
 
-
+<h4> Operating Systems </h4>
+<span>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/CentOS-002260?style=for-the-badge&logo=centos&logoColor=white">
+  <img src="https://img.shields.io/badge/Rocky_Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white">
+</span>
 
     
 
