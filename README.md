@@ -28,6 +28,8 @@ I'm a second year software engineering undergraduate at University of Kelaniya a
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Badge">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Badge">
+  <img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?link=https%3A%2F%2Fgithub.com%2F">
+
 </span>
 
 <h4> Databases </h4>
