@@ -31,6 +31,11 @@ I'm a second year software engineering undergraduate at University of Kelaniya a
   
 </span>
 
+<h4> Design Tools </h4>
+<span>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+</span>
+
 <h4> Databases </h4>
 <span>
 	<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
@@ -39,18 +44,36 @@ I'm a second year software engineering undergraduate at University of Kelaniya a
 	<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
 </span>
 
+
+<h4> Database Management Tools </h4>
+<span>
+  <img src="https://img.shields.io/badge/DBeaver-4A7EBB?style=for-the-badge&logo=dbeaver&logoColor=white">
+  <img src="https://img.shields.io/badge/HeidiSQL-4479A1?style=for-the-badge&logo=heidisql&logoColor=white">
+</span>
+
 <h4> IDE </h4>
 <span>
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white">
+</span>
 
+
+<h4> Data & Cloud Tools </h4>
+<span>
+  <img src="https://img.shields.io/badge/Snowflake-56C5FF?style=for-the-badge&logo=snowflake&logoColor=white">
+</span>
+
+<h4> Networking Tools </h4>
+<span>
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-0093D0?style=for-the-badge&logo=cisco&logoColor=white">
+</span>
 
 <h4> Other Tools and Technologies </h4>
 <span>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
-  <img src="https://img.shields.io/badge/HeidiSQL-4479A1?style=for-the-badge&logo=heidisql&logoColor=white">
   <img src="https://img.shields.io/badge/VirtualBox-21416B?style=for-the-badge&logo=virtualbox&logoColor=white">
 </span>
 
