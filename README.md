@@ -2,7 +2,8 @@
 
 ### Hi there 👋 I'm Jhonny Leon,
 
-I write about papers and books I'm reading, and things I'm building, on my blog <a href=https://workspacejhonny.bearblog.dev/>.
+I write about papers and books I'm reading, and things I'm building, on my blog <a Here href=https://workspacejhonny.bearblog.dev/>.
+
 I'm a second year software engineering undergraduate at University of Kelaniya and I'm also following a applied statistics diploma at IASSL.
 
 - ⚡ **Fun fact:** I believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
